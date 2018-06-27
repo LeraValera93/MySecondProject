@@ -1,4 +1,4 @@
-package test;
+package second;
 
 public class FoundTheNumber {
 
